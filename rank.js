@@ -1,4 +1,3 @@
-/* Developed by Alice Madona */
 var Ranking = Facebook.Feed.extend({
     initialize: function (a, b, c) {
         this.options = c;
