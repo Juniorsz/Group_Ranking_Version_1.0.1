@@ -1,5 +1,4 @@
 <?php
-/* Developed by Vy Nghia */
 require_once ('server/config.php');
 
 /*==============================*/
