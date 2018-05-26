@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Theme was designed by Lê Quang Vỹ -->
+<!-- Theme was designed by Junior -->
 <html lang="en">
   <head>
     <meta charset="utf-8">
